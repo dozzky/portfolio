@@ -78,7 +78,7 @@ st.header("📫 Контакты")
 st.markdown("""
 - 📍 Якутск, Россия
 - 📧 Email: [donhqleti@gmail.com](mailto:donhqleti@gmail.com)
-- 💼 GitHub: [https://github.com/your-username](https://github.com/your-username)
+- 💼 GitHub: [https://github.com/dozzky](https://github.com/dozzky)
 - ☎️ Телефон: +7 964 337 96 69
 """)
 
