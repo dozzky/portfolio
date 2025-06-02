@@ -2,7 +2,7 @@ import streamlit as st
 
 st.set_page_config(page_title="Данилов Дон Спиридонович", layout="wide")
 
-st.title("👋 Привет, я Данилов Дон Спиридонович")
+st.title("Данилов Дон Спиридонович")
 col1, col2 = st.columns([1, 3])
 with col1:
     st.image("images/dds.jpg", caption="Это я", width=350)
