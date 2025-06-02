@@ -97,7 +97,7 @@ with col2:
     with tab1:
         st.markdown("""
         - Классификация, регрессия, кластеризация
-        - CNN, RNN, LSTM, GRU, Transformers
+        - CNN, RNN, LSTM, GRU, GAN, Transformers
         - Fine-tuning LLM
         - Loss-функции, регуляризация, оптимизаторы
         """)
