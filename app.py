@@ -58,6 +58,14 @@ st.header("🛠 Навыки")
 col1, col2 = st.columns(2)
 
 with col1:
+    tab1, tab2, tab3 = st.tabs(["🧠 Образование", "💼 Опыт", "📂 Проекты"])
+
+    with tab1:
+        st.write("2024 — Магистратура, Методы ИИ.")
+    with tab2:
+        st.write("С 2024 — ML-инженер в Лаборатории ИИ.")
+    with tab3:
+        st.write("Semantic Search, GAN, AIJ Hackathon...")
     st.subheader("Языки программирования")
     st.markdown("""
     - Python (OOP, async)
